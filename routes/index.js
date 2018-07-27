@@ -30,5 +30,9 @@ router.get('/contact', (req, res, next) => {
   res.render('contact');
 });
 
+router.get('/faq', (req, res, next) => {
+  res.render('faq');
+});
+
 
 module.exports = router;
