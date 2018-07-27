@@ -51,3 +51,21 @@ a.dropdown-item:hover {
   background-color: #abf2ae;
   box-shadow: 0px 15px 10px -15px #111;
 }
+
+.contactMe a {
+	padding-top: .75em;
+	padding-bottom: .75em;
+  color: grey;
+}
+
+.contactMe a:link {
+	color: grey;
+}
+
+.contactMe a:visited {
+	color: grey;
+}
+
+.contactMe a:hover {
+	color: #7795c6;
+}
