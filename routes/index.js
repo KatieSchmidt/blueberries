@@ -22,4 +22,9 @@ router.get('/baskets', (req, res, next) => {
   res.render('baskets');
 });
 
+router.get('/about', (req, res, next) => {
+  res.render('about');
+});
+
+
 module.exports = router;

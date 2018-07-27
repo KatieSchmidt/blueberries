@@ -16,6 +16,10 @@ h3 {
   color: #7795c6;
 }
 
+.index-header {
+  color: #7795c6;
+}
+
 .footer {
 	color: grey;
 	text-align: center;
@@ -31,15 +35,19 @@ h3 {
   width: 75%;
 }
 
+
 .navbar-custom {
   background-color: #abf2ae;
+  box-shadow: 0px 15px 10px -15px #111;
 }
 
 .dropdown-background {
   background-color: #cff9d1;
+  box-shadow: 15px 15px 10px -15px #111;
 }
 
 a.dropdown-item.active,
 a.dropdown-item:hover {
   background-color: #abf2ae;
+  box-shadow: 0px 15px 10px -15px #111;
 }
