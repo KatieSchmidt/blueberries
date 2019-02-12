@@ -43,7 +43,8 @@ a.dropdown-item:hover {
 /* overall styles*/
 h3 {
   color: black;
-  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+  text-shadow: 2.5px 2.5px 2.5px rgba(0, 0, 0, 0.3);
+  font-weight: 500;
 }
 
 .index-header {
