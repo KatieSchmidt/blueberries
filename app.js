@@ -8,7 +8,10 @@ var index = require("./routes/index");
 
 var app = express();
 
-const port = 3000;
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 3000;
+}
 
 // view engine setup
 app.set("views", path.join(__dirname, "views"));
