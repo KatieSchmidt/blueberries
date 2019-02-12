@@ -42,13 +42,13 @@ a.dropdown-item:hover {
 
 /* overall styles*/
 h3 {
-  color: black;
+  color: rgba(255, 255, 255, 0.8);
   text-shadow: 2.5px 2.5px 2.5px rgba(0, 0, 0, 0.3);
   font-weight: 500;
 }
 
 .index-header {
-  color: black;
+  color: rgba(255, 255, 255, 0.8);
   text-shadow: 2.5px 2.5px 2.5px rgba(0, 0, 0, 0.3);
   text-transform: uppercase;
   font-weight: 700;
@@ -72,30 +72,30 @@ h3 {
 .contactMe a {
   padding-top: 0.75em;
   padding-bottom: 0.75em;
-  color: black;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .contactMe a:link {
-  color: black;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .contactMe a:visited {
-  color: black;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .contactMe a:hover {
-  color: grey;
+  color: rgba(255, 255, 255, 0.8);
 }
 /*end contact styles*/
 
 /*portfolio link styles*/
 .portfolio-link {
-  color: black;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .portfolio-link:link,
 .portfolio-link:visited {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(255, 255, 255, 0.8);
 }
 /* end portfolio link styles*/
 
