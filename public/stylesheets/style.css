@@ -90,12 +90,12 @@ h3 {
 
 /*portfolio link styles*/
 .portfolio-link {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgb(52, 52, 100);
 }
 
 .portfolio-link:link,
 .portfolio-link:visited {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgb(52, 52, 100);
 }
 /* end portfolio link styles*/
 
